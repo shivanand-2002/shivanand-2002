@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,C,C++,PHP,Wordpress,Mern,Python**
 
-- 📫 How to reach me **shivanandhgourkar@gmail.com**
+- 📫Reach me through **shivanandhgourkar@gmail.com**
 
 - 📄 Know about my experiences [https://beige-tarra-24.tiiny.site](https://beige-tarra-24.tiiny.site)
 
