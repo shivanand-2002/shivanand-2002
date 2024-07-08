@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanand-2002&label=Profile%20views&color=0e75b6&style=flat" alt="shivanand-2002" /> </p>
 
-- 💬 Ask me about **HTML,CSS,JS,C,C++,PHP,Wordpress,Mern,Python**
+- 💬 Ask me about **HTML,CSS,JS,C,C++,PHP,Wordpress,MERN,Python**
 
 - 📫Reach me through **shivanandhgourkar@gmail.com**
 
