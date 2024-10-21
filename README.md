@@ -8,7 +8,7 @@
 
 - 📫Reach me through **shivanandhgourkar@gmail.com**
 
-- 📄 Know about my experiences [https://shivanandgourkarcv.tiiny.site/]
+- 📄 Know about my experiences [https://shivanandresume.tiiny.site/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
