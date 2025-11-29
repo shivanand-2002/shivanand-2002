@@ -4,11 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanand-2002&label=Profile%20views&color=0e75b6&style=flat" alt="shivanand-2002" /> </p>
 
-- 💬 Ask me about **HTML,CSS,JS,C,C++,PHP,Wordpress,MERN,Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, jQuery, Bootstrap, and also explored databases like SQL and MongoDB.
+**
 
 - 📫Reach me through **shivanandhgourkar@gmail.com**
 
-- 📄 Know about my experiences [https://shivanandresume.tiiny.site/]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
