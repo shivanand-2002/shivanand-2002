@@ -118,15 +118,5 @@ Developed an IoT-based system for monitoring water quality using an ESP32 microc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivanand-2002&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanand-2002&layout=compact&theme=default" />
-</p>
----
 
 ⭐ **Thanks for visiting my profile! Feel free to connect, explore my projects, and collaborate.**
